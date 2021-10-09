@@ -18,7 +18,7 @@ Log on to JupyterLab and open a Jupyter terminal.
 
 ```
 cd
-git clone https://github.com/jarokaz/merlin-on-vertex.git
+git clone https://github.com/mengdong/merlin-on-vertex.git
 
 ```
 
